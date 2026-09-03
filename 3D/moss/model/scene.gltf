@@ -1,0 +1,502 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        74.98684692382813,
+        75.72958374023438,
+        63.95924758911133
+      ],
+      "min": [
+        -74.98685455322266,
+        -75.72957611083984,
+        -77.74018096923828
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999433755874634,
+        0.9999932050704956,
+        0.9998567700386047
+      ],
+      "min": [
+        -0.9999434351921082,
+        -0.9999932050704956,
+        -0.9999619722366333
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999962449073792,
+        0.9999985694885254,
+        0.9933269023895264,
+        1.0
+      ],
+      "min": [
+        -0.9999961853027344,
+        -0.9999986290931702,
+        -0.9962678551673889,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        2.0,
+        1.649999976158142
+      ],
+      "min": [
+        0.0,
+        0.009999662637710571
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 387093,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 17110,
+      "max": [
+        38.341217041015625,
+        75.44507598876953,
+        77.74244689941406
+      ],
+      "min": [
+        -39.84029769897461,
+        -38.94404983520508,
+        -78.10256958007813
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1778088,
+      "componentType": 5126,
+      "count": 17110,
+      "max": [
+        0.9971685409545898,
+        0.9989970922470093,
+        1.0
+      ],
+      "min": [
+        -0.9971684813499451,
+        -0.992551326751709,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 17110,
+      "max": [
+        0.9999994039535522,
+        0.9999778866767883,
+        0.9995937347412109,
+        1.0
+      ],
+      "min": [
+        -0.9999992251396179,
+        -0.9999778866767883,
+        -0.9976915717124939,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 17110,
+      "max": [
+        2.0,
+        2.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1548372,
+      "componentType": 5125,
+      "count": 90507,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1983408,
+      "componentType": 5126,
+      "count": 40401,
+      "max": [
+        100.00000762939453,
+        100.00000762939453,
+        8.102387428283691
+      ],
+      "min": [
+        -100.00000762939453,
+        -100.00000762939453,
+        3.9465932846069336
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2468220,
+      "componentType": 5126,
+      "count": 40401,
+      "max": [
+        0.6225610375404358,
+        0.6338720321655273,
+        1.0
+      ],
+      "min": [
+        -0.6700375080108643,
+        -0.7108203768730164,
+        0.6832627058029175
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1322272,
+      "componentType": 5126,
+      "count": 40401,
+      "max": [
+        1.0,
+        0.037695761770009995,
+        0.6797966957092285,
+        1.0
+      ],
+      "min": [
+        0.7333984375,
+        -0.051325805485248566,
+        -0.6739055514335632,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 661136,
+      "componentType": 5126,
+      "count": 40401,
+      "max": [
+        2.0,
+        2.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1910400,
+      "componentType": 5125,
+      "count": 240000,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "3dhdscan (https://sketchfab.com/3dhdscan)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/stone-oxy-moss-water-01-d94fd04477a24410bf4d1b10fdc87393",
+      "title": "Stone Oxy Moss Water 01"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2870400,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 984344,
+      "byteOffset": 2870400,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2953032,
+      "byteOffset": 3854744,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1968688,
+      "byteOffset": 6807776,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 8776464,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/stone_oxy_moss_water_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/stone_oxy_moss_water_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/stone_oxy_moss_water_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "stone_oxy_moss_water",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "stone_oxy_moss_water_stone_oxy_moss_water_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "stone_oxy_moss_water_stone_oxy_moss_water_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane001_stone_oxy_moss_water_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.033660560846328735,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        7.474145934678042e-18,
+        -0.033660560846328735,
+        0.0,
+        0.0,
+        0.033660560846328735,
+        7.474145934678042e-18,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "stone_oxy_moss_water.FBX"
+    },
+    {
+      "children": [
+        3,
+        6
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        -1.4960213899612427,
+        0.0,
+        0.5853965878486633,
+        1.0
+      ],
+      "name": "stone_oxy_moss_water"
+    },
+    {
+      "mesh": 0,
+      "name": "stone_oxy_moss_water_stone_oxy_moss_water_0"
+    },
+    {
+      "mesh": 1,
+      "name": "stone_oxy_moss_water_stone_oxy_moss_water_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        -9.984691619873047,
+        0.0,
+        -389.1032409667969,
+        1.0
+      ],
+      "name": "Plane001"
+    },
+    {
+      "mesh": 2,
+      "name": "Plane001_stone_oxy_moss_water_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

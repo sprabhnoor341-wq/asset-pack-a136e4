@@ -1,0 +1,4 @@
+Asset downloaded via Sketchfab/PolyHaven API.
+Please check the original source for specific license details.
+Sketchfab: https://sketchfab.com/
+PolyHaven: https://polyhaven.com/
