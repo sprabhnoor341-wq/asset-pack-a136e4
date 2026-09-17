@@ -1,0 +1,23 @@
+{
+  "id": "assassination-target",
+  "type": "target",
+  "name": "Assassination Target",
+  "model": {
+    "assetQuery": "nobleman character 3d model",
+    "preferredSource": "any",
+    "fallbackShape": "capsule",
+    "scale": 1.1,
+    "materialColor": "#ffce42"
+  },
+  "collider": {
+    "type": "box",
+    "params": {
+      "halfExtents": 0.5
+    }
+  },
+  "rigidbody": {
+    "type": "static",
+    "friction": 0.6,
+    "restitution": 0
+  }
+}
