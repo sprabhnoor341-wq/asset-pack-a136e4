@@ -1,0 +1,23 @@
+{
+  "id": "stealth-health-item",
+  "type": "item",
+  "name": "Stealth Health Potion",
+  "model": {
+    "assetQuery": "stealth health potion dark potion bottle",
+    "preferredSource": "any",
+    "fallbackShape": "sphere",
+    "scale": 0.8,
+    "materialColor": "#2a2a3a"
+  },
+  "collider": {
+    "type": "box",
+    "params": {
+      "halfExtents": 0.3
+    }
+  },
+  "rigidbody": {
+    "type": "static",
+    "friction": 0.6,
+    "restitution": 0
+  }
+}
