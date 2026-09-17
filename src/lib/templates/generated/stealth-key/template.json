@@ -1,0 +1,23 @@
+{
+  "id": "stealth-key",
+  "type": "item",
+  "name": "Shadow Key",
+  "model": {
+    "assetQuery": "ornate ancient key 3d model",
+    "preferredSource": "any",
+    "fallbackShape": "cone",
+    "scale": 0.5,
+    "materialColor": "#2c2c2c"
+  },
+  "collider": {
+    "type": "box",
+    "params": {
+      "halfExtents": 0.2
+    }
+  },
+  "rigidbody": {
+    "type": "static",
+    "friction": 0.6,
+    "restitution": 0
+  }
+}
