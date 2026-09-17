@@ -1,0 +1,23 @@
+{
+  "id": "stealth-guard",
+  "type": "enemy",
+  "name": "Stealth Guard",
+  "model": {
+    "assetQuery": "medieval armored guard",
+    "preferredSource": "any",
+    "fallbackShape": "capsule",
+    "scale": 1,
+    "materialColor": "#4a4a4a"
+  },
+  "collider": {
+    "type": "box",
+    "params": {
+      "halfExtents": 0.5
+    }
+  },
+  "rigidbody": {
+    "type": "static",
+    "friction": 0.6,
+    "restitution": 0
+  }
+}
