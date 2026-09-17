@@ -1,0 +1,23 @@
+{
+  "id": "stealth-brute-enemy",
+  "type": "enemy",
+  "name": "Shadow Brute",
+  "model": {
+    "assetQuery": "heavy armored brute character dark",
+    "preferredSource": "any",
+    "fallbackShape": "box",
+    "scale": 1,
+    "materialColor": "#2a2a2a"
+  },
+  "collider": {
+    "type": "box",
+    "params": {
+      "halfExtents": 0.8
+    }
+  },
+  "rigidbody": {
+    "type": "dynamic",
+    "friction": 0.6,
+    "restitution": 0
+  }
+}
