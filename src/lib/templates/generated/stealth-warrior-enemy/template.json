@@ -1,0 +1,23 @@
+{
+  "id": "stealth-warrior-enemy",
+  "type": "enemy",
+  "name": "Stealth Warrior",
+  "model": {
+    "assetQuery": "stealth warrior armor helmet sword",
+    "preferredSource": "any",
+    "fallbackShape": "capsule",
+    "scale": 1,
+    "materialColor": "#4a4a4a"
+  },
+  "collider": {
+    "type": "box",
+    "params": {
+      "halfExtents": 0.5
+    }
+  },
+  "rigidbody": {
+    "type": "dynamic",
+    "friction": 0.6,
+    "restitution": 0
+  }
+}
