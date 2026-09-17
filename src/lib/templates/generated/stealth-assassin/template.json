@@ -1,0 +1,23 @@
+{
+  "id": "stealth-assassin",
+  "type": "player",
+  "name": "Shadow Assassin",
+  "model": {
+    "assetQuery": "assassin character 3d model stealth",
+    "preferredSource": "any",
+    "fallbackShape": "capsule",
+    "scale": 1,
+    "materialColor": "#2a2a2a"
+  },
+  "collider": {
+    "type": "box",
+    "params": {
+      "halfExtents": 0.5
+    }
+  },
+  "rigidbody": {
+    "type": "dynamic",
+    "friction": 0.6,
+    "restitution": 0
+  }
+}
