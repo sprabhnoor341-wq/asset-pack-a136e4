@@ -1,0 +1,23 @@
+{
+  "id": "heavy-brute",
+  "type": "enemy",
+  "name": "Heavy Brute",
+  "model": {
+    "assetQuery": "orc brute character 3d model",
+    "preferredSource": "any",
+    "fallbackShape": "box",
+    "scale": 1.6,
+    "materialColor": "#8e2b2b"
+  },
+  "collider": {
+    "type": "box",
+    "params": {
+      "halfExtents": 0.8
+    }
+  },
+  "rigidbody": {
+    "type": "dynamic",
+    "friction": 0.6,
+    "restitution": 0
+  }
+}
