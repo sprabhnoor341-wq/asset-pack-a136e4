@@ -1,0 +1,23 @@
+{
+  "id": "stealth-health-item",
+  "type": "item",
+  "name": "Stealth Health Potion",
+  "model": {
+    "assetQuery": "stealth health potion 3d model",
+    "preferredSource": "any",
+    "fallbackShape": "sphere",
+    "scale": 1,
+    "materialColor": "#4CAF50"
+  },
+  "collider": {
+    "type": "box",
+    "params": {
+      "halfExtents": 0.5
+    }
+  },
+  "rigidbody": {
+    "type": "static",
+    "friction": 0.6,
+    "restitution": 0
+  }
+}
